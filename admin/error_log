@@ -1,0 +1,11 @@
+[18-Jun-2022 22:20:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'admishng_dbuser'@'localhost' to database 'admishng_admissione' in /home3/admishng/public_html/includes/db.php on line 7
+[18-Jun-2022 22:21:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'admishng_dbuser'@'localhost' to database 'admishng_admissione' in /home3/admishng/public_html/includes/db.php on line 7
+[18-Jun-2022 23:18:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'admishng_dbuser'@'localhost' to database 'admishng_admissione' in /home3/admishng/public_html/includes/db.php on line 7
+[18-Jun-2022 23:45:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'admishng_dbuser'@'localhost' to database 'admishng_admissione' in /home3/admishng/public_html/includes/db.php on line 7
+[19-Jun-2022 00:28:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'admishng_dbuser'@'localhost' to database 'admishng_admissione' in /home3/admishng/public_html/includes/db.php on line 7
+[19-Jun-2022 00:28:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'admishng_dbuser'@'localhost' to database 'admishng_admissione' in /home3/admishng/public_html/includes/db.php on line 7
+[19-Jun-2022 00:31:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'admishng_dbuser'@'localhost' to database 'admishng_admissione' in /home3/admishng/public_html/includes/db.php on line 7
+[19-Jun-2022 00:31:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'admishng_dbuser'@'localhost' to database 'admishng_admissione' in /home3/admishng/public_html/includes/db.php on line 7
+[19-Jun-2022 00:32:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'admishng_dbuser'@'localhost' to database 'admishng_admissione' in /home3/admishng/public_html/includes/db.php on line 7
+[25-Jun-2022 22:28:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/admishng/public_html/includes/db.php on line 7
+[25-Jun-2022 22:28:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/admishng/public_html/includes/db.php on line 7
